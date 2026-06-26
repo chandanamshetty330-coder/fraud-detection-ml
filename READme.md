@@ -17,7 +17,7 @@ Credit card fraud causes billions in losses every year. This project builds an i
 
 ## 🚀 Live Demo
 
-👉 **[Click here to try the live app](https://fraud-detection-ml-pu7y.onrender.com)(#)** ← (add Render link after deployment)
+👉 **[Click here to try the live app](https://fraud-detection-ml-pu7y.onrender.com)**← (add Render link after deployment)
 
 ---
 
